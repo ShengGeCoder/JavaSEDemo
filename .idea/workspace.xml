@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="867581e1-37b5-4452-b5d0-09b73eb801b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/everyday/src/day/day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/everyday/src/day/day6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/everyday/day/day6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/everyday/day/day6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/everyday/dayclass/ATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pers/pers/base/syntax/CommonSyntax.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,30 +55,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BubbleSortDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BubbleSortDemo.executor": "Run",
+    "Application.day6.executor": "Run",
+    "Application.day8.executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CodeProject\JavaSEDemo\everyday\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSortDemo">
+  <component name="RunManager" selected="Application.day8">
     <configuration name="BubbleSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day.BubbleSortDemo" />
       <module name="everyday" />
@@ -97,19 +95,6 @@
     </configuration>
     <configuration name="TankGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day.TankGame" />
-      <module name="everyday" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day.day4" />
       <module name="everyday" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +132,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day.day8" />
+      <module name="everyday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day8" />
         <item itemvalue="Application.BubbleSortDemo" />
       </list>
     </recent_temporary>
@@ -305,6 +304,32 @@
       <workItem from="1781056328372" duration="678000" />
       <workItem from="1783406145193" duration="12000" />
       <workItem from="1783406259295" duration="545000" />
+      <workItem from="1784242107971" duration="7248000" />
+      <workItem from="1784595693483" duration="2830000" />
+      <workItem from="1784683172900" duration="2727000" />
+      <workItem from="1784709084983" duration="1365000" />
+      <workItem from="1784730905588" duration="78000" />
+      <workItem from="1784770719810" duration="6682000" />
+      <workItem from="1784856747369" duration="2623000" />
+      <workItem from="1785378196317" duration="3792000" />
+      <workItem from="1785462557335" duration="4003000" />
+      <workItem from="1785723934057" duration="691000" />
+      <workItem from="1785806949717" duration="3960000" />
+      <workItem from="1785893639427" duration="7266000" />
+      <workItem from="1785979928646" duration="1201000" />
+      <workItem from="1786067064746" duration="2395000" />
+      <workItem from="1786326808841" duration="5103000" />
+      <workItem from="1786410236416" duration="2532000" />
+      <workItem from="1786496813831" duration="605000" />
+      <workItem from="1786672551590" duration="1853000" />
+      <workItem from="1788342794058" duration="171000" />
+      <workItem from="1788343100326" duration="45000" />
+      <workItem from="1789440111783" duration="58000" />
+      <workItem from="1789451807330" duration="699000" />
+      <workItem from="1789901289471" duration="121000" />
+      <workItem from="1790323155567" duration="38000" />
+      <workItem from="1791427805070" duration="122000" />
+      <workItem from="1791622821900" duration="1026000" />
     </task>
     <servers />
   </component>
