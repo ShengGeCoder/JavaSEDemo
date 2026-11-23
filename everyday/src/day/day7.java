@@ -19,7 +19,7 @@ public class day7 {
         int attempts = 0;
 
         System.out.println("========== 猜数字游戏 ==========");
-        System.out.println("我已经想好了一个 1 到 100 之间的数字，请猜一猜！");
+        System.out.println("我已想好了一个 1 到 100 之间的数字，请猜一猜！");
 
         while (true) {
             System.out.print("请输入你的猜测：");
