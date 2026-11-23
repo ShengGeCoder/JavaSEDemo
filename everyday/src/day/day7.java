@@ -13,13 +13,13 @@ public class day7 {
 
     public static void main(String[] args) {
         Random random = new Random();
-        int targetNumber = random.nextInt(100) + 1;
+        int targetNumber = random.nextInt(99) + 1;
         Scanner scanner = new Scanner(System.in);
         int guess;
         int attempts = 0;
 
         System.out.println("========== 猜数字游戏 ==========");
-        System.out.println("我已想好了一个 1 到 100 之间的数字，请猜一猜！");
+        System.out.println("我已想好了一个 1 到 99 之间的数字，请猜一猜！");
 
         while (true) {
             System.out.print("请输入你的猜测：");
